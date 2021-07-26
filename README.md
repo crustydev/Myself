@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ademola-Paul
-- 👀 I’m interested in C++, Javascript, Game development with lua and love2d, web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on c++ and love2d projects
+- 👀 I’m interested in C++; Game development with love2d, Unreal Engine and Unity3d; Machine Learning; Penetration testing.
+- 🌱 I’m currently learning AWS machine learning with Python.
+- 💞️ I’m looking to collaborate on C++ and love2d projects
 - 📫 Reach me at ademolafatoke@gmail.com
 
 <!---
