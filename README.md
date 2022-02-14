@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ademola
-- 👀 I’m interested in developing networking and cryptographic-security systems in C++ and Rust.
+- 👀 I’m interested in Networking, Cryptography, Blockchain and Security.
 - 🌱 I’m currently learning RustLang and Rust webdev.
 - 💞️ I’m looking to collaborate on Rust web development projects.
 - 📫 Reach me at ademolafatoke@gmail.com
